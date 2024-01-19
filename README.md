@@ -75,7 +75,7 @@ export default TestPage;
 ```
 
 ```js
-// HydrationText.jsx
+// HydrationTest.jsx
 const HydrationTest = () => {
   const a = Math.random();
   console.log(a);
